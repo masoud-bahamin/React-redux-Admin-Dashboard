@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+<a href="https://react-redux-admin-dashboard.vercel.app/" target="blank">view online </a>
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
