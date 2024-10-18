@@ -1,4 +1,4 @@
-import { Shirt, Users, LayoutDashboard, UserPen, TreeDeciduous, Table,  ListOrderedIcon, ListCheck, Package, Inbox } from 'lucide-react'
+import { Shirt, Users, LayoutDashboard, UserPen, Table,  ListOrderedIcon, ListCheck, Package, Inbox } from 'lucide-react'
 import {
     Accordion,
     AccordionContent,
@@ -26,7 +26,7 @@ export default function Aside() {
                     className="flex items-center gap-2 px-8 py-6 m-0 text-sm whitespace-nowrap dark:text-white text-slate-700"
                     href="#"
                 >
-                    {/* <TreeDeciduous color='#83580b' size={32} /> */}
+                    
                     <img src='/logo.png' width={32}/>
                     <span className="ml-1 font-semibold transition-all duration-200 ease-nav-brand">
                         Bahamin
